@@ -1,0 +1,7 @@
+cd C:\Solutions\SMBC\CFSSpringBoot
+mvn clean install (only to build)
+mvn spring-boot:run
+
+
+
+
