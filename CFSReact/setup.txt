@@ -1,3 +1,0 @@
-cd C:\Solutions\SMBC\CFSReact
-npm run dev
-

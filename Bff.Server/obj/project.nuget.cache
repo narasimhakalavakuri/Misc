@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxdWymZtC6Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Narasimha\\Code\\smbc\\Bff.Server\\Bff.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4\\microsoft.identitymodel.logging.5.2.4.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.2.4\\microsoft.identitymodel.protocols.5.2.4.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.2.4\\microsoft.identitymodel.tokens.5.2.4.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\5.2.4\\microsoft.identitymodel.tokens.saml.5.2.4.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.identitymodel.xml\\5.2.4\\microsoft.identitymodel.xml.5.2.4.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\sustainsys.saml2\\2.11.0\\sustainsys.saml2.2.11.0.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\sustainsys.saml2.aspnetcore2\\2.11.0\\sustainsys.saml2.aspnetcore2.2.11.0.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\Narasimha\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 10.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\Narasimha\\Code\\smbc\\Bff.Server\\Bff.Server.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Narasimha\\Code\\smbc\\Bff.Server\\Bff.Server.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
